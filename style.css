@@ -1,0 +1,34 @@
+.container
+{
+    margin-bottom: 100px;
+}
+.orang-bg
+{
+    background-color: #fceae8;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.carousel-item
+{
+    padding: 20px 20px;
+}
+.price
+{
+    color: #FF136F;
+}
+.buy-now
+{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
